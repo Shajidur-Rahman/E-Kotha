@@ -7,4 +7,6 @@
     <string name="signUpBTN"><b>S</b>ign up</string>
     <string name="create">Or Create an</string>
     <string name="signInBTN">Go...</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
 </resources>
