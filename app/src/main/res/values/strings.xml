@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">E-Kotha</string>
+    <string name="signUpDes">A secure app for Chatting</string>
+    <string name="emailHint">Enter your E-Kotha email</string>
+    <string name="passwordHint">Enter your E-Kotha email password</string>
+    <string name="nameHint">Enter your name</string>
+    <string name="signUpBTN"><b>S</b>ign up</string>
+    <string name="create">Or Create an</string>
+    <string name="signInBTN">Go...</string>
 </resources>
